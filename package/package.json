@@ -1,0 +1,22 @@
+{
+  "name": "spanish-word-to-number",
+  "version": "1.0.0",
+  "description": "Converts Spanish words to numbers. | Convierte palabras en español a números.",
+  "main": "./dist/index.min.js",
+  "type": "module",
+  "scripts": {
+    "minify": "uglifyjs --compress --mangle --output ./dist/index.min.js -- ./dist/index.js",
+    "build": "tsc && npm run minify && rm ./dist/index.js"
+  },
+  "keywords": [
+    "spanish",
+    "words",
+    "numbers"
+  ],
+  "author": "Alessandro Rios",
+  "license": "ISC",
+  "devDependencies": {
+    "uglify-js": "^3.17.0"
+  }
+}
+
