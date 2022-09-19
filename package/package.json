@@ -2,6 +2,10 @@
   "name": "spanish-word-to-number",
   "version": "1.0.0",
   "description": "Converts Spanish words to numbers. | Convierte palabras en español a números.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dalessandro07/spanish-word-to-number"
+  },
   "main": "./dist/index.min.js",
   "type": "module",
   "scripts": {
@@ -14,7 +18,7 @@
     "numbers"
   ],
   "author": "Alessandro Rios",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "uglify-js": "^3.17.0"
   }

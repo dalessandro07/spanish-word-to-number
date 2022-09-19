@@ -1,5 +1,5 @@
 import GetNumberFromWord from 'spanish-word-to-number'
 
-const { result } = GetNumberFromWord('ciento veintidós')
+const { result } = GetNumberFromWord('doscientos')
 
-console.log(result) // 122
+console.log(result) // 200
