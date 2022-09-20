@@ -22,3 +22,5 @@ console.log(result) // 234
 
 [MIT](http://vjpr.mit-license.org)
 
+#### Give me a star ⭐😀
+
