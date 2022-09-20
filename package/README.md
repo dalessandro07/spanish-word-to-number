@@ -22,3 +22,8 @@ console.log(result) // 234
 ## License
 
 [MIT](http://vjpr.mit-license.org)
+
+## Developer
+
+Alessandro Rios
+alessandrorios.com
