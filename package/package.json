@@ -1,6 +1,6 @@
 {
   "name": "spanish-word-to-number",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Converts Spanish words to numbers. | Convierte palabras en español a números.",
   "repository": {
     "type": "git",

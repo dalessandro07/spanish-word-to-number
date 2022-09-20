@@ -1,6 +1,7 @@
 # spanish-word-to-number
 
 Converts Spanish words like 'doscientos treinta y cuatro' to numbers '234'.
+Convierte palabras a números. Ejemplo: 'doscientos treinta y cuatro' -> '234'
 
 ## Install
 
