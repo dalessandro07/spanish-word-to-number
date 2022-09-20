@@ -1,6 +1,9 @@
 # spanish-word-to-number
 
+[![npm version](https://badge.fury.io/js/spanish-word-to-number.svg)](https://badge.fury.io/js/spanish-word-to-number)
+
 Converts Spanish words like 'doscientos treinta y cuatro' to numbers '234'.
+
 Convierte palabras a números. Ejemplo: 'doscientos treinta y cuatro' -> '234'
 
 ## Install
@@ -25,5 +28,4 @@ console.log(result) // 234
 
 ## Developer
 
-Alessandro Rios
-alessandrorios.com
+[Alessandro Rios](https://alessandrorios.com)
